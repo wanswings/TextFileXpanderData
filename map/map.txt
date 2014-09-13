@@ -1,0 +1,15 @@
+-------------------- japan
+map: sapporo, japan
+map: kagoshima, japan
+
+-------------------- thailand
+map: bangkok, thailand
+map: kurabi, thailand
+
+-------------------- usa
+map: tampa, florida
+map: fork union, virginia
+
+-------------------- route
+route: from: tokyo, japan to: nagoya, japan
+route: from: fork union, virginia, usa to: tampa, florida, usa

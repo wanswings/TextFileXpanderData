@@ -1,0 +1,12 @@
+-------------------- system
+/etc/rc.d/init.d/httpd stop
+/etc/rc.d/init.d/sshd stop
+
+-------------------- search
+find / -name $1 -print
+find . -name '*' | xargs grep $1
+
+-------------------- android
+adb shell
+mount -o remount,rw -t yaffs2 /dev/block/mtdblock2 /system
+cd /system/app

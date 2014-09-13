@@ -1,0 +1,9 @@
+-------------------- paste
+aaa@bbb.ccc
+ddd@eee.fff
+ggg@hhh.iii
+
+-------------------- launch email client
+mailto: jjj@kkk.lll
+mailto: mmm@nnn.ooo,ppp@qqq.rrr
+mailto: sss@ttt.uuu,vvv@www.xxx,yyy@zzz

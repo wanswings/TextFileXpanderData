@@ -1,0 +1,10 @@
+-------------------- Sapporo Tourist Association
+url: http://www.sta.or.jp/english/
+-------------------- Kagoshima City
+url: http://www.city.kagoshima.lg.jp/gaikokugo/english/index.html
+-------------------- Tourism Authority of Thailand
+url: http://www.tourismthailand.org/
+-------------------- Central Park NYC
+url: http://www.centralparknyc.org/
+-------------------- City of Tampa
+url: http://www.tampagov.net/info/user-guides/for-visitors
