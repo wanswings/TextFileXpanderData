@@ -37,15 +37,15 @@ Let's make your own files.
 --------------------
 The best way to see how TextFileXpander formatting works to refer to these sample entries.
 
-* [Simple](https://github.com/wanswings/TextFileXpanderData/master/simple/simple.md) sample
+* [Simple](https://github.com/wanswings/TextFileXpanderData/blob/master/simple/simple.md) sample
 
-* [url:](https://github.com/wanswings/TextFileXpanderData/master/url/url.md) sample
+* [url:](https://github.com/wanswings/TextFileXpanderData/blob/master/url/url.md) sample
 
-* [mailto:](https://github.com/wanswings/TextFileXpanderData/master/mailto/mailto.md) sample
+* [mailto:](https://github.com/wanswings/TextFileXpanderData/blob/master/mailto/mailto.md) sample
 
-* [map: & route:](https://github.com/wanswings/TextFileXpanderData/master/map/map.md) sample
+* [map: & route:](https://github.com/wanswings/TextFileXpanderData/blob/master/map/map.md) sample
 
-* [people:](https://github.com/wanswings/TextFileXpanderData/master/people/people.md) sample
+* [people:](https://github.com/wanswings/TextFileXpanderData/blob/master/people/people.md) sample
 
 *****
 Copyright (c) 2014 wanswings
