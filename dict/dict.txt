@@ -1,0 +1,10 @@
+dict: annual
+dict: casual
+dict: definite
+dict: evident
+dict: excessive
+dict: generous
+dict: inferior
+dict: intimate
+dict: peculiar
+dict: subtle

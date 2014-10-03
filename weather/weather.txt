@@ -1,0 +1,5 @@
+weather: New York, US
+weather: Rome, Italy
+weather: Bangkok, Thailand
+weather: Madrid, Spain
+weather: London, UK

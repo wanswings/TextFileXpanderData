@@ -26,17 +26,13 @@ map: fork union, virginia
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/map/screenshots/screenshotM2.png)
 
-* Screenshot of map.txt (map) running on Windows.
+* Screenshots of map.txt (map) running on Windows.
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/map/screenshots/screenshotW1.png)
 
 * Screenshots of map.txt (map) running on Android.
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/map/screenshots/screenshotA1.png)
-
-![](https://raw.github.com/wanswings/TextFileXpanderData/master/map/screenshots/screenshotA2.png)
-
-![](https://raw.github.com/wanswings/TextFileXpanderData/master/map/screenshots/screenshotA3.png)
 
 map.txt (route)
 --------------------
@@ -52,11 +48,13 @@ route: from: fork union, virginia, usa to: tampa, florida, usa
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/map/screenshots/screenshotM4.png)
 
+* Screenshots of map.txt (route) running on Windows.
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/map/screenshots/screenshotW3.png)
+
 * Screenshots of map.txt (route) running on Android.
 
-![](https://raw.github.com/wanswings/TextFileXpanderData/master/map/screenshots/screenshotA4.png)
-
-![](https://raw.github.com/wanswings/TextFileXpanderData/master/map/screenshots/screenshotA5.png)
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/map/screenshots/screenshotA3.png)
 
 *****
 Copyright (c) 2014 wanswings

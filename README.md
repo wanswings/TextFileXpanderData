@@ -15,15 +15,21 @@ TextFileXpander does not have many rules.
 * Three or more of hyphens("---") matches the beginning of the text line that chnage to separator item.
 * Some magic words provides for cooperation with an external application.
 
-|Magic  word|Meaning|Mac|Windows|Android|
-|:--|:--|:--:|:--:|:--:|
-|"---"|Separator|o|o|o|
-|"--- text"|Separator with text|*1|*1|o|
-|url:|Open an URL in the browser|o|o|o|
-|mailto:|Launch the email client|o|o|o|
-|map:|Open Google Maps in the browser|o|o|o|
-|route:|Open Google Maps in the browser|o|o|o|
-|people:|Launch Contacts|*2|x|*3|
+|Magic  word|Meaning|Mac|Windows|iOS|Android|
+|:--|:--|:--:|:--:|:--:|:--:|
+|"---"|Separator|o|o|o|o|
+|"--- text"|Separator with text|*1|*1|o|o|
+|dict:|Launch the built-in dictionary|o|x|o|x|
+|flight:|Open Google Search|o|o|o|o|
+|mailto:|Launch the email client|o|o|o|o|
+|map:|Open Google Maps|o|o|o|o|
+|people:|Launch Contacts|*2|x|x|*3|
+|route:|Open Google Maps|o|o|o|o|
+|tel:|Open Phone app|x|x|o|o|
+|twitter:|Post to Twitter|o|x|o|o|
+|url:|Open an URL in the browser|o|o|o|o|
+|weather:|Open weather.com|o|o|o|o|
+|youtube:|Open YouTube|o|o|o|o|
 
 *1 Behave like Separator.  
 *2 Try to paste a name in the Contacts search box. If it's not work, you should paste from Pasteboard manually.  
@@ -39,13 +45,25 @@ The best way to see how TextFileXpander formatting works to refer to these sampl
 
 * [Simple](https://github.com/wanswings/TextFileXpanderData/blob/master/simple/simple.md) sample
 
-* [url:](https://github.com/wanswings/TextFileXpanderData/blob/master/url/url.md) sample
+* [dict:](https://github.com/wanswings/TextFileXpanderData/blob/master/dict/dict.md) sample
+
+* [flight:](https://github.com/wanswings/TextFileXpanderData/blob/master/flight/flight.md) sample
 
 * [mailto:](https://github.com/wanswings/TextFileXpanderData/blob/master/mailto/mailto.md) sample
 
 * [map: & route:](https://github.com/wanswings/TextFileXpanderData/blob/master/map/map.md) sample
 
 * [people:](https://github.com/wanswings/TextFileXpanderData/blob/master/people/people.md) sample
+
+* [tel:](https://github.com/wanswings/TextFileXpanderData/blob/master/tel/tel.md) sample
+
+* [twitter:](https://github.com/wanswings/TextFileXpanderData/blob/master/twitter/twitter.md) sample
+
+* [url:](https://github.com/wanswings/TextFileXpanderData/blob/master/url/url.md) sample
+
+* [weather:](https://github.com/wanswings/TextFileXpanderData/blob/master/weather/weather.md) sample
+
+* [youtube:](https://github.com/wanswings/TextFileXpanderData/blob/master/youtube/youtube.md) sample
 
 *****
 Copyright (c) 2014 wanswings

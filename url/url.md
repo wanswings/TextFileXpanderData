@@ -25,15 +25,13 @@ url: http://www.tampagov.net/info/user-guides/for-visitors
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/url/screenshots/screenshotM2.png)
 
-* Screenshot of url.txt running on Windows.
+* Screenshots of url.txt running on Windows.
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/url/screenshots/screenshotW1.png)
 
 * Screenshots of url.txt running on Android.
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/url/screenshots/screenshotA1.png)
-
-![](https://raw.github.com/wanswings/TextFileXpanderData/master/url/screenshots/screenshotA2.png)
 
 *****
 Copyright (c) 2014 wanswings

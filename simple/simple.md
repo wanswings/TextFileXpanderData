@@ -4,38 +4,6 @@ TextFileXpander
 *****
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/icon64x64.png)
 
-memo.txt
---------------------
-```
--------------------- tonight
-some tomatos
-200g of pork
-
--------------------- homework
-Writing history of Grand Grandpa.
-Find how to get up early.
-
--------------------- learn english
-pneumonoultramicroscopicsiliconvolcanoconiosis
-supercalifragilisticexpialidocious
-
--------------------- fixed phrases
-hello!
-see you later!
-```
-
-* Screenshot of memo.txt running on Mac OS X.
-
-![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotM1.png)
-
-* Screenshot of memo.txt running on Windows.
-
-![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotW1.png)
-
-* Screenshot of memo.txt running on Android.
-
-![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotA1.png)
-
 hello.txt
 --------------------
 ```
@@ -61,17 +29,54 @@ Hello! คุณเป็นอย่างไรบ้าง
 Здравствуйте! Як справи?
 ```
 
-* Screenshot of hello.txt running on Mac OS X.
+* Screenshots of hello.txt running on Mac OS X.
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotM1.png)
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotM2.png)
 
-* Screenshot of hello.txt running on Windows.
+* Screenshots of hello.txt running on Windows.
 
-![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotW2.png)
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotW1.png)
 
-* Screenshot of hello.txt running on Android.
+* Screenshots of hello.txt running on Android.
 
-![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotA2.png)
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotA1.png)
+
+memo.txt
+--------------------
+```
+-------------------- tonight
+some tomatos
+200g of pork
+
+-------------------- homework
+Writing history of Grand Grandpa.
+Find how to get up early.
+
+-------------------- learn english
+pneumonoultramicroscopicsiliconvolcanoconiosis
+supercalifragilisticexpialidocious
+
+-------------------- fixed phrases
+hello!
+see you later!
+```
+
+* Screenshots of memo.txt running on Mac OS X.
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotM3.png)
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotM4.png)
+
+* Screenshots of memo.txt running on Windows.
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotW3.png)
+
+* Screenshots of memo.txt running on Android.
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotA3.png)
+
 
 term.txt
 --------------------
@@ -90,17 +95,19 @@ mount -o remount,rw -t yaffs2 /dev/block/mtdblock2 /system
 cd /system/app
 ```
 
-* Screenshot of term.txt running on Mac OS X.
+* Screenshots of term.txt running on Mac OS X.
 
-![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotM3.png)
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotM5.png)
 
-* Screenshot of term.txt running on Windows.
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotM6.png)
 
-![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotW3.png)
+* Screenshots of term.txt running on Windows.
 
-* Screenshot of term.txt running on Android.
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotW5.png)
 
-![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotA3.png)
+* Screenshots of term.txt running on Android.
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotA5.png)
 
 *****
 Copyright (c) 2014 wanswings

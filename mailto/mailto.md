@@ -24,17 +24,13 @@ mailto: sss@ttt.uuu,vvv@www.xxx,yyy@zzz
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/mailto/screenshots/screenshotM2.png)
 
-* Screenshot of mailto.txt running on Windows.
+* Screenshots of mailto.txt running on Windows.
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/mailto/screenshots/screenshotW1.png)
 
 * Screenshots of mailto.txt running on Android.
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/mailto/screenshots/screenshotA1.png)
-
-![](https://raw.github.com/wanswings/TextFileXpanderData/master/mailto/screenshots/screenshotA2.png)
-
-![](https://raw.github.com/wanswings/TextFileXpanderData/master/mailto/screenshots/screenshotA3.png)
 
 *****
 Copyright (c) 2014 wanswings
