@@ -29,6 +29,10 @@ url: http://www.tampagov.net/info/user-guides/for-visitors
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/url/screenshots/screenshotW1.png)
 
+* Screenshots of url.txt running on iOS.
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/url/screenshots/screenshoti1.png)
+
 * Screenshots of url.txt running on Android.
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/url/screenshots/screenshotA1.png)

@@ -1,0 +1,11 @@
+-------------------- japan
+near: sapporo, japan
+near: kagoshima, japan
+
+-------------------- thailand
+near: bangkok, thailand
+near: kurabi, thailand
+
+-------------------- usa
+near: tampa, florida
+near: fork union, virginia

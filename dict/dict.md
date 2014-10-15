@@ -25,5 +25,9 @@ dict: subtle
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/dict/screenshots/screenshotM2.png)
 
+* Screenshots of dict.txt running on iOS.
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/dict/screenshots/screenshoti1.png)
+
 *****
 Copyright (c) 2014 wanswings

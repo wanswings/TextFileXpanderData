@@ -20,6 +20,10 @@ twitter: Night!
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/twitter/screenshots/screenshotM2.png)
 
+* Screenshots of twitter.txt running on iOS.
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/twitter/screenshots/screenshoti1.png)
+
 * Screenshots of twitter.txt running on Android.
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/twitter/screenshots/screenshotA1.png)

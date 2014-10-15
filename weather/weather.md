@@ -24,6 +24,10 @@ weather: London, UK
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/weather/screenshots/screenshotW1.png)
 
+* Screenshots of weather.txt running on iOS.
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/weather/screenshots/screenshoti1.png)
+
 * Screenshots of weather.txt running on Android.
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/weather/screenshots/screenshotA1.png)

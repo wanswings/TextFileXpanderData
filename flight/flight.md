@@ -24,6 +24,10 @@ flight: UA1483
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/flight/screenshots/screenshotW1.png)
 
+* Screenshots of flight.txt running on iOS.
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/flight/screenshots/screenshoti1.png)
+
 * Screenshots of flight.txt running on Android.
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/flight/screenshots/screenshotA1.png)

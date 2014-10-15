@@ -1,0 +1,10 @@
+recipe: noodle
+recipe: burger
+recipe: chicken
+recipe: fish
+recipe: pasta
+recipe: soup
+recipe: vegetable
+recipe: salad
+recipe: fruit
+recipe: cake

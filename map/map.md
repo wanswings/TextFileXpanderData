@@ -30,6 +30,10 @@ map: fork union, virginia
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/map/screenshots/screenshotW1.png)
 
+* Screenshots of map.txt (map) running on iOS.
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/map/screenshots/screenshoti1.png)
+
 * Screenshots of map.txt (map) running on Android.
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/map/screenshots/screenshotA1.png)
@@ -51,6 +55,10 @@ route: from: fork union, virginia, usa to: tampa, florida, usa
 * Screenshots of map.txt (route) running on Windows.
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/map/screenshots/screenshotW3.png)
+
+* Screenshots of map.txt (route) running on iOS.
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/map/screenshots/screenshoti3.png)
 
 * Screenshots of map.txt (route) running on Android.
 

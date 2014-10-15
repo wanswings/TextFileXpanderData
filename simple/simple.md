@@ -39,6 +39,10 @@ Hello! คุณเป็นอย่างไรบ้าง
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotW1.png)
 
+* Screenshots of hello.txt running on iOS.
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshoti1.png)
+
 * Screenshots of hello.txt running on Android.
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotA1.png)
@@ -73,6 +77,10 @@ see you later!
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotW3.png)
 
+* Screenshots of memo.txt running on iOS.
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshoti3.png)
+
 * Screenshots of memo.txt running on Android.
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotA3.png)
@@ -104,6 +112,10 @@ cd /system/app
 * Screenshots of term.txt running on Windows.
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshotW5.png)
+
+* Screenshots of term.txt running on iOS.
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/simple/screenshots/screenshoti5.png)
 
 * Screenshots of term.txt running on Android.
 

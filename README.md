@@ -23,7 +23,9 @@ TextFileXpander does not have many rules.
 |flight:|Open Google Search|o|o|o|o|
 |mailto:|Launch the email client|o|o|o|o|
 |map:|Open Google Maps|o|o|o|o|
+|near:|Open Foursquare|o|o|o|o|
 |people:|Launch Contacts|*2|x|x|*3|
+|recipe:|Open Epicurious.com|o|o|o|o|
 |route:|Open Google Maps|o|o|o|o|
 |tel:|Open Phone app|x|x|o|o|
 |twitter:|Post to Twitter|o|x|o|o|
@@ -53,7 +55,11 @@ The best way to see how TextFileXpander formatting works to refer to these sampl
 
 * [map: & route:](https://github.com/wanswings/TextFileXpanderData/blob/master/map/map.md) sample
 
+* [near:](https://github.com/wanswings/TextFileXpanderData/blob/master/near/near.md) sample
+
 * [people:](https://github.com/wanswings/TextFileXpanderData/blob/master/people/people.md) sample
+
+* [recipe:](https://github.com/wanswings/TextFileXpanderData/blob/master/recipe/recipe.md) sample
 
 * [tel:](https://github.com/wanswings/TextFileXpanderData/blob/master/tel/tel.md) sample
 

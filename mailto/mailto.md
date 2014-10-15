@@ -28,6 +28,10 @@ mailto: sss@ttt.uuu,vvv@www.xxx,yyy@zzz
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/mailto/screenshots/screenshotW1.png)
 
+* Screenshots of mailto.txt running on iOS.
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/mailto/screenshots/screenshoti1.png)
+
 * Screenshots of mailto.txt running on Android.
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/mailto/screenshots/screenshotA1.png)

@@ -14,6 +14,10 @@ tel: 44444
 tel: 55555
 ```
 
+* Screenshots of tel.txt running on iOS.
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/tel/screenshots/screenshoti1.png)
+
 * Screenshots of tel.txt running on Android.
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/tel/screenshots/screenshotA1.png)
