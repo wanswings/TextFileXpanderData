@@ -18,14 +18,15 @@ TextFileXpander does not have many rules.
 |Magic  word|Meaning|Mac|Windows|iOS|Android|
 |:--|:--|:--:|:--:|:--:|:--:|
 |"---"|Separator|o|o|o|o|
-|"--- text"|Separator with text|*1|*1|o|o|
+|"--- text"|Separator with Text|*1|*1|o|o|
+|marker:|Change Text Color|o|o|*4|o|
 |dict:|Launch the built-in dictionary|o|x|o|x|
 |flight:|Open Google Search|o|o|o|o|
 |mailto:|Launch the email client|o|o|o|o|
 |map:|Open Google Maps|o|o|o|o|
 |near:|Open Foursquare|o|o|o|o|
 |people:|Launch Contacts|*2|x|x|*3|
-|recipe:|Open Epicurious.com|o|o|o|o|
+|recipe:|Open Epicurious.com|o|o|*4|o|
 |route:|Open Google Maps|o|o|o|o|
 |tel:|Open Phone app|x|x|o|o|
 |twitter:|Post to Twitter|o|x|o|o|
@@ -36,6 +37,7 @@ TextFileXpander does not have many rules.
 *1 Behave like Separator.  
 *2 Try to paste a name in the Contacts search box. If it's not work, you should paste from Pasteboard manually.  
 *3 Copy a name to Clipboard and launch.  
+*4 Coming soon.
 
 `TextFileXpander uses .txt extension only.`
 
@@ -46,6 +48,8 @@ Let's make your own files.
 The best way to see how TextFileXpander formatting works to refer to these sample entries.
 
 * [Simple](https://github.com/wanswings/TextFileXpanderData/blob/master/simple/simple.md) sample
+
+* [marker:](https://github.com/wanswings/TextFileXpanderData/blob/master/marker/marker.md) sample
 
 * [dict:](https://github.com/wanswings/TextFileXpanderData/blob/master/dict/dict.md) sample
 

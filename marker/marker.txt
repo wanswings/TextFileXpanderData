@@ -1,0 +1,11 @@
+-------------------- marker:
+marker: Normal marker.
+marker: Pay the rent 3 days later.
+
+-------------------- marker:strong:
+marker:strong: Strong marker.
+marker:strong: Pay the rent tomorrow.
+
+-------------------- marker:weak:
+marker:weak: Weak marker.
+marker:weak: Pay the rent next week.
