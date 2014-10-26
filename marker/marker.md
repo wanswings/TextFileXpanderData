@@ -28,6 +28,12 @@ marker:weak: Pay the rent next week.
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/marker/screenshots/screenshotW1.png)
 
+* Screenshots of marker.txt running on iOS.
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/marker/screenshots/screenshoti1.png)
+
+![](https://raw.github.com/wanswings/TextFileXpanderData/master/marker/screenshots/screenshoti2.png)
+
 * Screenshots of marker.txt running on Android.
 
 ![](https://raw.github.com/wanswings/TextFileXpanderData/master/marker/screenshots/screenshotA1.png)

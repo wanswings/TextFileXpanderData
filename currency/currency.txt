@@ -1,0 +1,10 @@
+currency: from:USD to:JPY
+currency: from:USD to:GBP
+currency: from:USD to:EUR
+currency: from:GBP to:JPY
+currency: from:GBP to:EUR
+currency: from:EUR to:JPY
+currency: from:USD to:HKD
+currency: from:USD to:TWD
+currency: from:USD to:THB
+currency: from:USD to:MYR

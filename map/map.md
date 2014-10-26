@@ -44,6 +44,10 @@ map.txt (route)
 -------------------- route
 route: from: tokyo, japan to: nagoya, japan
 route: from: fork union, virginia, usa to: tampa, florida, usa
+
+-------------------- route (from current location)
+route: from: here to: nagoya, japan
+route: from: here to: tampa, florida, usa
 ```
 
 * Screenshots of map.txt (route) running on Mac OS X.
