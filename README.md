@@ -20,7 +20,7 @@ TextFileXpander does not have many rules.
 |"---"|Separator|o|o|o|o|
 |"--- text"|Separator with Text|*1|*1|o|o|
 |[marker:](https://github.com/wanswings/TextFileXpanderData/blob/master/marker/marker.md)|Change Text Color|o|o|o|o|
-|[currency:](https://github.com/wanswings/TextFileXpanderData/blob/master/currency/currency.md)|Open Google Finance|o|o|*4|o|
+|[currency:](https://github.com/wanswings/TextFileXpanderData/blob/master/currency/currency.md)|Open Google Finance|o|o|o|o|
 |[dict:](https://github.com/wanswings/TextFileXpanderData/blob/master/dict/dict.md)|Launch the built-in dictionary|o|x|o|x|
 |[flight:](https://github.com/wanswings/TextFileXpanderData/blob/master/flight/flight.md)|Open FlightAware|o|o|o|o|
 |[mailto:](https://github.com/wanswings/TextFileXpanderData/blob/master/mailto/mailto.md)|Launch the email client|o|o|o|o|
@@ -38,7 +38,6 @@ TextFileXpander does not have many rules.
     *1 Behave like Separator.
     *2 Try to paste a name in the Contacts search box. If it's not work, you should paste from Pasteboard manually.
     *3 Copy a name to Clipboard and launch.
-    *4 Coming soon.
 
 `TextFileXpander uses .txt extension only.`
 
